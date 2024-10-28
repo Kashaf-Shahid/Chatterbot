@@ -1,0 +1,4 @@
+#chatterbot
+#chatterbot-corpus
+#pyyaml #python -m spacy dowmload en
+#spacy
