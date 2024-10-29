@@ -12,12 +12,12 @@
 }
 
 .botText{
-
     font-family: monospace;
     font-size: 14px;
     text-align: left;
     line-height: 25px;
     color: rgb(109,111,109);
+    text-align: center;
 }
 
 #userInput{

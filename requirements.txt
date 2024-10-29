@@ -1,0 +1,4 @@
+Django
+openai==0.28
+langchain
+langchain_community
